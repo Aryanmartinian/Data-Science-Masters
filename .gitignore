@@ -1,0 +1,12 @@
+# Ignore system and user config files
+*.log
+*.tmp
+*.pyc
+__pycache__/
+.env
+.venv/
+.vscode/
+.cache/
+.android/
+.atom/
+.ipynb_checkpoints/
